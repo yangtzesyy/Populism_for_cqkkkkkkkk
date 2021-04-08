@@ -1,3 +1,4 @@
-# Populism_for_cqkkkkkkkk
+# Populism for syy' father
 
-This is a meaningless repo just for involtion
+
+This is a meaningfull repo for involtion
