@@ -15,5 +15,5 @@ world <- left_join(world,summ_n_bycountry)
 
 ggplot(data=world)+
   geom_sf(aes(fill=speeches))+
-  ggtitle("The number of speeches across country in GPD")+
+  ggtitle("The number of speeches across country in GPD")
 
